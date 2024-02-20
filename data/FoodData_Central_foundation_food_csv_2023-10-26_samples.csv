@@ -1,3 +1,6 @@
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/acquisition_samples.csv
+-----------
 "fdc_id_of_sample_food","fdc_id_of_acquisition_food"
 "319874","319876"
 "319874","319875"
@@ -8,6 +11,9 @@
 "319885","319888"
 "319885","319891"
 "319885","319889"
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/agricultural_samples.csv
+-----------
 "fdc_id","acquisition_date","market_class","treatment","state"
 "335241","2016-11-11","Dark Red Kidney","Control","PR"
 "335242","2016-11-11","Dark Red Kidney","Control","PR"
@@ -18,6 +24,9 @@
 "335248","2016-11-11","Pink","Control","PR"
 "335249","2016-11-11","Pink","Control","PR"
 "335250","2016-11-11","Pink","Control","PR"
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/food.csv
+-----------
 "fdc_id","data_type","description","food_category_id","publication_date"
 "319874","sample_food","HUMMUS, SABRA CLASSIC","16","2019-04-01"
 "319875","market_acquisition","HUMMUS, SABRA CLASSIC","16","2019-04-01"
@@ -28,6 +37,9 @@
 "319880","market_acquisition","HUMMUS, SABRA CLASSIC","16","2019-04-01"
 "319881","market_acquisition","HUMMUS, SABRA CLASSIC","16","2019-04-01"
 "319882","sub_sample_food","Hummus","16","2019-04-01"
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/food_attribute.csv
+-----------
 "id","fdc_id","seq_num","food_attribute_type_id","name","value"
 "1833152","321358","","","Ontology name for source","legume food product"
 "1833151","321358","","","Ontology ID for source","http://purl.obolibrary.org/obo/FOODON_00001264"
@@ -38,12 +50,18 @@
 "1833355","321360","","","Ontology ID for source","http://purl.obolibrary.org/obo/FOODON_00001261"
 "1833354","321360","","","FoodOn Ontology name for FDC item","grape tomato (whole, raw)"
 "1833353","321360","","","FoodOn Ontology ID for FDC item","http://purl.obolibrary.org/obo/FOODON_00003299"
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/food_attribute_type.csv
+-----------
 "id","name","description"
 "998","Update Log","Changes that were made to this food"
 "999","Attribute","Generic attributes"
 "1000","Common Name","Common names associated with a food."
 "1001","Additional Description","Additional descriptions for the food."
 "1002","Adjustments","Adjustments made to foods, including moisture changes"
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/food_calorie_conversion_factor.csv
+-----------
 "food_nutrient_conversion_factor_id","protein_value","fat_value","carbohydrate_value"
 "22503","3.47","8.37","4.07"
 "22505","4.27","8.79","3.87"
@@ -54,6 +72,9 @@
 "22516","4.27","8.79","3.87"
 "22518","4.27","8.79","3.87"
 "22520","4.27","9.02","3.87"
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/food_component.csv
+-----------
 "id","fdc_id","name","pct_weight","is_refuse","gram_weight","data_points","min_year_acqured"
 "56885","","Bone and connective tissue","0.1","Y","1.3","2",""
 "56886","","External fat","1.0","Y","9.6","2",""
@@ -64,6 +85,9 @@
 "56891","","Bone and connective tissue","0.0","Y","0.0","6",""
 "56892","","External fat","1.0","Y","1.3","6",""
 "56893","","Handling loss","0.4","N","0.5","6",""
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/food_nutrient.csv
+-----------
 "id","fdc_id","nutrient_id","amount","data_points","derivation_id","min","max","median","footnote","min_year_acquired"
 "2201847","319877","1051","56.3","1","1","","","","",""
 "2201845","319877","1002","1.28","1","1","","","","",""
@@ -74,6 +98,9 @@
 "2201853","319878","1092","326.0","1","1","","","","",""
 "2201848","319878","1087","46.0","1","1","","","","",""
 "2201854","319878","1093","446.0","1","1","","","","",""
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/food_nutrient_conversion_factor.csv
+-----------
 "id","fdc_id"
 "22721","746952"
 "22722","747429"
@@ -84,6 +111,9 @@
 "22727","790018"
 "22728","790085"
 "22729","790146"
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/food_portion.csv
+-----------
 "id","fdc_id","seq_num","amount","measure_unit_id","portion_description","modifier","gram_weight","data_points","footnote","min_year_acquired"
 "118702","319875","","2.0","1001","","","35.8","1","",""
 "118703","319880","","2.0","1001","","","36.2","1","",""
@@ -94,6 +124,9 @@
 "118708","319897","","2.0","1001","","","31.4","1","",""
 "118709","319902","","2.0","1001","","","32.0","1","",""
 "118710","319904","","2.0","1001","","","32.2","1","",""
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/food_protein_conversion_factor.csv
+-----------
 "food_nutrient_conversion_factor_id","value"
 "22504","6.25"
 "22506","6.38"
@@ -104,6 +137,9 @@
 "22515","6.38"
 "22517","6.38"
 "22519","6.38"
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/food_update_log_entry.csv
+-----------
 "id","description","last_updated"
 "319874","HUMMUS, SABRA CLASSIC","2019-04-01"
 "319875","HUMMUS, SABRA CLASSIC","2019-04-01"
@@ -114,6 +150,9 @@
 "319880","HUMMUS, SABRA CLASSIC","2019-04-01"
 "319881","HUMMUS, SABRA CLASSIC","2019-04-01"
 "319882","Hummus","2019-04-01"
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/foundation_food.csv
+-----------
 "fdc_id","NDB_number","footnote"
 "321358","16158",""
 "321360","100147",""
@@ -124,6 +163,9 @@
 "323604","1171",""
 "323697","1172",""
 "323793","1173",""
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/input_food.csv
+-----------
 "id","fdc_id","fdc_of_input_food","seq_num","amount","sr_code","sr_description","unit","portion_code","portion_description","gram_weight","retention_code","survey_flag"
 "10437","321358","319984","","","","","","","","","",""
 "10438","321358","320005","","","","","","","","","",""
@@ -134,6 +176,9 @@
 "10429","321358","319879","","","","","","","","","",""
 "10435","321358","319958","","","","","","","","","",""
 "10432","321358","319901","","","","","","","","","",""
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/lab_method.csv
+-----------
 "id","description","technique"
 "1000","NIST Handbook 133","Gravimetric"
 "1001","AOAC 968.06 + 992.15","Combustion"
@@ -144,6 +189,9 @@
 "1006","doi.org/10.1093/jat/4.1.43","GC"
 "1007","AOAC 934.06 mod","Vacuum oven"
 "1008","AOAC 991.43","Enzymatic-gravimetric"
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/lab_method_code.csv
+-----------
 "lab_method_id","code"
 "1001","DGEN_S"
 "1003","FAT-MJ-FLT-CHG"
@@ -154,6 +202,9 @@
 "1007","VPI_Moisture"
 "1008","TDFL_S"
 "1008","FBR-SR3-CHG"
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/lab_method_nutrient.csv
+-----------
 "lab_method_id","nutrient_id"
 "1001","1002"
 "1001","1003"
@@ -164,6 +215,9 @@
 "1005","1010"
 "1005","1075"
 "1005","1013"
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/market_acquisition.csv
+-----------
 "fdc_id","brand_description","expiration_date","label_weight","location","acquisition_date","sales_type","sample_lot_nbr","sell_by_date","store_city","store_name","store_state","upc_code"
 "319875","","2015-11-09","","NE1","2015-10-06","","10:0823 ","","HASTINGS","ALLENS FOOD MART","NE","40822011143"
 "319876","","2015-11-09","","NE1","2015-10-06","","10:0823 ","","HASTINGS","ALLENS FOOD MART","NE","40822011143"
@@ -174,6 +228,9 @@
 "319888","","2015-11-13","","IA","2015-09-19","","3:38:54 AM","","ESTHERVILLE","HY VEE FOOD STORE","IA","40822011143"
 "319889","","2015-10-12","","TX1","2015-09-26","","5:50:03 PM","","HOUSTON","RANDALLS FOOD MARKET","TX","40822011143"
 "319890","","2015-10-12","","TX1","2015-09-26","","5:52:40 PM","","HOUSTON","RANDALLS FOOD MARKET","TX","40822011143"
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/measure_unit.csv
+-----------
 "id","name"
 "1000","cup"
 "1001","tablespoon"
@@ -184,6 +241,9 @@
 "1006","cubic centimeter"
 "1007","gallon"
 "1008","pint"
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/nutrient.csv
+-----------
 "id","name","unit_name","nutrient_nbr","rank"
 "2047","Energy (Atwater General Factors)","KCAL","957","280.0"
 "2048","Energy (Atwater Specific Factors)","KCAL","958","290.0"
@@ -194,6 +254,9 @@
 "1005","Carbohydrate, by difference","G","205","1110.0"
 "1006","Fiber, crude (DO NOT USE - Archived)","G","206","999999.0"
 "1007","Ash","G","207","1000.0"
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/sample_food.csv
+-----------
 "fdc_id"
 "319874"
 "319879"
@@ -204,6 +267,9 @@
 "319939"
 "319958"
 "319978"
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/sub_sample_food.csv
+-----------
 "fdc_id","fdc_id_of_sample_food"
 "319877","319874"
 "319878","319874"
@@ -214,6 +280,9 @@
 "319893","319885"
 "319899","319894"
 "319900","319894"
+-----------
+FoodData_Central_foundation_food_csv_2023-10-26/sub_sample_result.csv
+-----------
 "food_nutrient_id","adjusted_amount","lab_method_id","nutrient_name"
 "2201844","1.98","1004","Ash"
 "2201845","1.28","1001","Nitrogen by Dumas"
