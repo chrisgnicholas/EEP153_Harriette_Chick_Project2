@@ -1,0 +1,26 @@
+FoodData_Central_foundation_food_csv_2023-10-26
+├── acquisition_samples.csv
+├── agricultural_samples.csv
+├── food.csv
+├── food_attribute.csv
+├── food_attribute_type.csv
+├── food_calorie_conversion_factor.csv
+├── food_component.csv
+├── food_nutrient.csv
+├── food_nutrient_conversion_factor.csv
+├── food_portion.csv
+├── food_protein_conversion_factor.csv
+├── food_update_log_entry.csv
+├── foundation_food.csv
+├── input_food.csv
+├── lab_method.csv
+├── lab_method_code.csv
+├── lab_method_nutrient.csv
+├── market_acquisition.csv
+├── measure_unit.csv
+├── nutrient.csv
+├── sample_food.csv
+├── sub_sample_food.csv
+└── sub_sample_result.csv
+
+0 directories, 23 files

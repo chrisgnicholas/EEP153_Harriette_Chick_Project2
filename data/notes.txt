@@ -1,4 +1,12 @@
-link to 'all info' at:
-https://fews.net/data/acute-food-insecurity
-
+go to: https://fews.net/data/acute-food-insecurity
+to obtain the ALL_HFIC.zip (660+ Megs) data
 a listing of the contents is in the "ALL_HFIC_listing.txt" file
+
+The data behind "fooddatacentral" is in in the:
+FoodData_Central_foundation_food_csv_2023-10-26.zip
+
+Its contents are in 
+FoodData_Central_foundation_food_csv_2023-10-26_listing.txt
+
+A sample of each of the files are in:
+FoodData_Central_foundation_food_csv_2023-10-26_sample.csv
