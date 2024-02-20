@@ -1,2 +1,4 @@
 link to 'all info' at:
 https://fews.net/data/acute-food-insecurity
+
+a listing of the contents is in the "ALL_HFIC_listing.txt" file
