@@ -14,3 +14,12 @@ fooddatacentral
 gspread
 
 gspread_pandas
+
+ipykernel
+
+eep153_tools
+
+scipy
+
+pandas
+cufflinks
