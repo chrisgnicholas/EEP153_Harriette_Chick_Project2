@@ -9,10 +9,15 @@ Population of interest:We concentrated our efforts on determining the most cost-
 ### Meet Team Harriette Chick
 
 Dojun Kim (email: kim.dojun@berkeley.edu; github: @kimnmd)
+
 Kevin Kim (email: kevinkim1942@berkeley.edu; github:kevinkim1942)
+
 Angela Chen (email: akchen@berkeley.edu; github: angiechen17)
+
 Yazda Cokgor (email:yscokgor@berkeley.edu; github:yscokgor)
+
 Malena Buffagni (email:malenabuffagni@berkeley.edu; github:malenabuffagni)
+
 Chris Nicholas (email:chrisgnicholas@berkeley.edu; github:chrisgnicholas)
 
 ## External Links
@@ -27,8 +32,11 @@ Note that we are using flake8 (https://flake8.pycqa.org/en/2.5.5/) to check for 
 
 ### Due Dates
 Code Rough Draft: March 1
+
 Code Review: March 5
+
 Potluck: March 5
+
 Presentations: March 8
 
 
