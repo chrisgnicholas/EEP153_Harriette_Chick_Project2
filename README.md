@@ -1,9 +1,9 @@
 # EEP153_Harriette_Chick_Project2
 
 ## Topic & Goals
-Our project focused on determining the most affordable diet in a school
+Our project focused on determining the most affordable diet in a public school
 
-Population of interest:We concentrated our efforts on determining the most cost-effective dietary solution for 12-year-old middle school students.
+Population of interest: We concentrated our efforts on determining the most cost-effective dietary solution for 12-year-old middle school students.
 
 ## Project Logistics
 ### Meet Team Harriette Chick
@@ -26,7 +26,7 @@ Team Harriette Chick Food Price Data Sheet:https://docs.google.com/spreadsheets/
 ### Side Note
 This is based in large part on the lecture2 notebook, but broken into more modular units. The core "solve_subsistence_problem" routine has been broken out in a Python module, in the src subdirectory.
 
-Other chunks of functionality to read in data and generate plots have been broken out as companion notebooks.
+Other chunks of functionality to read data and generate plots have been broken out as companion notebooks.
 
 Note that we are using flake8 (https://flake8.pycqa.org/en/2.5.5/) to check for proper formatting of our module code as per PEP8 (https://peps.python.org/pep-0008/)
 
