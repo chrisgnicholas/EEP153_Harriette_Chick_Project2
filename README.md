@@ -23,7 +23,7 @@ Chris Nicholas (email:chrisgnicholas@berkeley.edu; github:chrisgnicholas)
 ## External Links
 Team Harriette Chick Food Price Data Sheet:https://docs.google.com/spreadsheets/d/1UrvYh0ynYkAa8Ye0ncmNddnVDfc4Do2F/edit?usp=sharing&ouid=117538634223013877380&rtpof=true&sd=true
 
-### Side Note
+#### Side Note
 This is based in large part on the lecture2 notebook, but broken into more modular units. The core "solve_subsistence_problem" routine has been broken out in a Python module, in the src subdirectory.
 
 Other chunks of functionality to read data and generate plots have been broken out as companion notebooks.
