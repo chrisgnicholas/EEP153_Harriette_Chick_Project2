@@ -3,7 +3,9 @@
 ## Topic & Goals
 Our project focused on determining the most affordable diet in a public school
 
-Within this study, our focal point centered on rigorously assessing the cost-effectiveness of dietary solutions specifically tailored for 12-year-old middle school students. Our objective was to identify and recommend practical strategies that not only meet nutritional requirements but also address financial constraints commonly encountered in public school environments.
+Within this study, our focal point centered on assessing the cost-effectiveness of dietary solutions specifically tailored for 12-year-old middle school students. Our objective was to identify and recommend practical strategies that not only meet nutritional requirements but also address financial constraints commonly encountered in public school environments.
+
+
 
 ## Project Logistics
 ### Meet Team Harriette Chick
