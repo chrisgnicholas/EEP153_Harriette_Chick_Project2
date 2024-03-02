@@ -6,7 +6,6 @@ Our project focused on determining the most affordable diet in a public school
 Within this study, our focal point centered on assessing the cost-effectiveness of dietary solutions specifically tailored for 12-year-old middle school students. Our objective was to identify and recommend practical strategies that not only meet nutritional requirements but also address financial constraints commonly encountered in public school environments.
 
 
-
 ## Project Logistics
 ### Meet Team Harriette Chick
 
@@ -21,6 +20,22 @@ Yazda Cokgor (email:yscokgor@berkeley.edu; github:yscokgor)
 Malena Buffagni (email:malenabuffagni@berkeley.edu; github:malenabuffagni)
 
 Chris Nicholas (email:chrisgnicholas@berkeley.edu; github:chrisgnicholas)
+
+## File Structure
+team_notebook: This is the main notebook which contains all of our overarching relevant code. 
+
+    load_data: This file contains the code which loads our price data from the USDA and the DRI data from the US governments's recommendations. This file is referenced in the code of team_notebook.
+
+    getPrices: This file contains the code which solves the subsistence cost problem. This file is referenced in the code of get_diet.
+
+    get_diet: This file contains the code that prints the solution to the subsistence problem which was calculated in the file "getPrices". This file is referenced in the code of team_notebook. 
+
+    examine_price_changes: This file contains the code that outputs the plot examining the effect of changes in log costs of different ingredients on the cost of the minimum cost diet. This file is referenced in the code of team_notebook. 
+
+    examine_composition: This file contains the code that outputs the plot examining the effect of changes in the cost of 'liquid eggs' on the composition of the minimum cost diet. This file is referenced in the code of team_notebook. 
+
+    constrained_diet_composition: This file contains the code that recalculates the earlier plot with a constraint that total weight of diet must be less that 12 hectograms (1.2 kg). This file is referenced in the code of team_notebook. 
+
 
 ## External Links
 Team Harriette Chick Food Price Data Sheet:https://docs.google.com/spreadsheets/d/1UrvYh0ynYkAa8Ye0ncmNddnVDfc4Do2F/edit?usp=sharing&ouid=117538634223013877380&rtpof=true&sd=true
