@@ -8,4 +8,6 @@ been broken out in a Python module, in the src subdirectory.
 Other chunks of functionality to read in data and generate plots
 have been broken out as companion notebooks.
 
+Note that we are using flake8 (https://flake8.pycqa.org/en/2.5.5/) to check 
+for proper formatting of our module code as per PEP8 (https://peps.python.org/pep-0008/)
 

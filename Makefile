@@ -5,5 +5,5 @@ test:
 	source ./venv/bin/activate; cd test; python3 test_pop.py
 
 lint:
-	source ./venv/bin/activate; flake8 src/team_malthus/pop.py; flake8 test/test_pop.py
+	source ./venv/bin/activate; flake8 src/team_harriette_chick/getPrices.py
 
