@@ -1,7 +1,11 @@
 # EEP153_Harriette_Chick_Project2
 
 ## Topic & Goals
-Our project focused on determining the most affordable diet in a public school
+Our project focused on determining the most affordable diet in a public school. We are basing out pricing on the 'The USDA Foods in Schools program', as per: https://www.fns.usda.gov/usda-fis/school, supports domestic nutrition programs and American agricultural producers through purchases of 100% American-grown and -produced foods for use by schools and institutions participating in the following nutrition programs:
+
+[National School Lunch Program (NSLP)] (https://www.fns.usda.gov/nslp/national-school-lunch-program-nslp)
+[Child and Adult Care Food Program (CACFP)] (https://www.fns.usda.gov/cacfp)
+[Summer Food Service Program (SFSP)] (https://www.fns.usda.gov/sfsp/summer-food-service-program)
 
 Within this study, our focal point centered on assessing the cost-effectiveness of dietary solutions specifically tailored for 12-year-old middle school students. Our objective was to identify and recommend practical strategies that not only meet nutritional requirements but also address financial constraints commonly encountered in public school environments.
 
